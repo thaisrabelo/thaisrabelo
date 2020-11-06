@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá, Mundo! 👋
 
+Meu nome é Thais e eu sou estudante de Análise e Desenvolvimento de Sistemas e atualmente cursando o 2º semestre na FATEC São José dos Campos.
+Sou apaixonada pelo meu cachorro e meu hobbie favorito é fazer crash courses no YouTube.
 <!--
 **thaisrabelo/thaisrabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 Redes Sociais
+
+[![Linkedin Badge](https://img.shields.io/badge/socialmedia-linkedin-blue)](https://www.linkedin.com/in/thais-rabelo/)
